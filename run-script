@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export avito_db_user=hackerman
+export avito_db_password=hackerman
+export avito_db_name=postgres
